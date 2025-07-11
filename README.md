@@ -1,2 +1,2 @@
 # Todo-App
-it is basic to practice HTML
+it is basic to practice DOM in js
